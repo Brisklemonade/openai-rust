@@ -2,7 +2,7 @@
 
 If you have access to open api and would like to use this, you will need to provide your api key. To do so, create a `.env` file at the root of the project and paste in the following:
 
-```env
+```js
 OPENAI_API_KEY = sk-YOUR_API_KEY
 ```
 
